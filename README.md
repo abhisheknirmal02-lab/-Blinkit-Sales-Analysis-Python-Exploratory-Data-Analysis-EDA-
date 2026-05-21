@@ -8,6 +8,9 @@
 End-to-end **Exploratory Data Analysis (EDA)** on Blinkit's grocery sales dataset using Python. Covers data cleaning, KPI calculation, and business-driven visualisations to uncover sales patterns across product types, outlet sizes, fat content, locations, and establishment years.
 
 ---
+##  📸 Preview
+
+![Blinkit Sales Analysis](Blinkit_Analysis_Preview.png)
 
 ## 📓 View Notebook
 
